@@ -1,7 +1,9 @@
 
 # env files
 .env
+whisperapi\.env
 
 # faiss index folder
 merged_index/*
+node_modules
 
