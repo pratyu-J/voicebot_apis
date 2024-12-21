@@ -1,0 +1,7 @@
+
+# env files
+.env
+
+# faiss index folder
+merged_index/*
+

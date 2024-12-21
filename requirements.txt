@@ -1,0 +1,11 @@
+langchain
+langchain_community
+langchain-openai
+tiktoken
+faiss-cpu
+openai
+python-decouple
+watchdog
+flask
+flask_cors
+pathlib
